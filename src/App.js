@@ -4,6 +4,7 @@ function App() {
     <div className="App">
         <label>Premiere of the week</label>
         <Movies/>
+        <Movies />
     </div>
   );
 } 
